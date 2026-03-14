@@ -1,0 +1,34 @@
+A inteligência artificial tem transformado profundamente a sociedade contemporânea.
+Sistemas computacionais aprendem padrões a partir de grandes volumes de dados.
+O aprendizado de máquina é uma das principais subáreas da inteligência artificial.
+Redes neurais artificiais inspiram-se no funcionamento do cérebro humano.
+O processamento de linguagem natural permite que máquinas compreendam textos.
+Algoritmos de busca são fundamentais para a organização da informação digital.
+Estruturas de dados eficientes garantem o desempenho de sistemas computacionais.
+Árvores binárias de busca organizam elementos de forma hierárquica e ordenada.
+A árvore AVL mantém o balanceamento automático após cada inserção ou remoção.
+Listas encadeadas permitem inserção e remoção dinâmica de elementos.
+Pilhas seguem o princípio LIFO: o último elemento inserido é o primeiro a sair.
+Filas seguem o princípio FIFO: o primeiro elemento inserido é o primeiro a sair.
+Funções de dispersão criptográfica garantem a integridade dos dados transmitidos.
+O algoritmo SHA-1 gera um resumo de 160 bits a partir de uma entrada arbitrária.
+A autenticação digital assegura a identidade do emissor de um documento eletrônico.
+Certificados digitais utilizam criptografia assimétrica para verificar identidades.
+A assinatura digital é equivalente legal à assinatura manuscrita em muitos países.
+Documentos eletrônicos autenticados têm validade jurídica reconhecida no Brasil.
+O desenvolvimento de software exige planejamento e organização cuidadosa do código.
+Paradigmas de programação orientada a objetos favorecem a reutilização de código.
+Encapsulamento, herança e polimorfismo são pilares da orientação a objetos.
+Testes unitários garantem que cada componente do sistema funcione corretamente.
+A complexidade de tempo descreve quantas operações um algoritmo realiza.
+A notação Big-O permite comparar a eficiência de diferentes algoritmos.
+Algoritmos de ordenação como quicksort e mergesort são amplamente utilizados.
+Grafos representam relações entre objetos em diversas aplicações computacionais.
+Algoritmos de caminho mínimo encontram a rota mais curta entre dois pontos.
+Banco de dados relacionais organizam informações em tabelas com chaves primárias.
+A linguagem SQL é o padrão para consultas em bancos de dados relacionais.
+Sistemas distribuídos permitem que múltiplos computadores trabalhem em conjunto.
+A computação em nuvem oferece recursos computacionais como serviço sob demanda.
+Segurança da informação protege dados contra acessos não autorizados e ataques.
+Criptografia simétrica usa a mesma chave para cifrar e decifrar mensagens.
+Criptografia assimétrica utiliza um par de chaves pública e privada distintas.
